@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Configuration de VLANs sur un switch Tp-Link
+bigimg: /img/IMG_3905_DxO-1024x230.jpg
 ---
 À Bali, j’utilise en fournisseur d’accès Internet principal le provider Neuviz. Celui-ci fourni un routeur et peut faire de l’administration à distance dessus. Malgré ma totale confiance, je ne veux pas que Neuviz ai un accès direct aux machines du LAN. J’utilise donc un Raspberry Pi comme routeur intermédiaire.
 
@@ -26,12 +27,11 @@ PVID      { 2 } { 2 } { 3 } { 3 } { 3 } { 3 } { 3 } { 4 }
 - On change l’IP du switch pour 192.168.5.254.
 
 
-
-![Changement du mot de passe](![Easy_Smart_Configuration_Utility_2015-02-27_14-09-39.png]({{site.baseurl}}/img/Easy_Smart_Configuration_Utility_2015-02-27_14-09-39.png)
-/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_14-09-39.png?w=512)
-![Changement de l'IP](/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_16-23-02.png?w=512)
+![Changement du mot de passe]({{site.baseurl}}/img/Easy_Smart_Configuration_Utility_2015-02-27_14-09-39.png)
+![Changement de l'IP]({{site.baseurl}}/img/Easy_Smart_Configuration_Utility_2015-02-27_16-23-02.png)
 
 - On configure les VLANs et les PVID de la façon suivante
+
 
 ![Configuration des VLANs](/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_15-31-50.png?w=512)
 ![Configuration des PVID](/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_15-30-43.png?w=512)
