@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Remplacement ventilateur sur APC SUA1000XL
 bigimg: /img/20151228/IMG_4788_DxO-1024x319.jpg
 ---
