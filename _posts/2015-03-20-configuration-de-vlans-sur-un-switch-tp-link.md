@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Configuration de VLANs sur un switch Tp-Link
 bigimg: /img/IMG_3905_DxO-1024x230.jpg
 ---
