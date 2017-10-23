@@ -28,13 +28,13 @@ PVID      { 2 } { 2 } { 3 } { 3 } { 3 } { 3 } { 3 } { 4 }
 - On change l’IP du switch pour 192.168.5.254.
 
 
-![Changement du mot de passe]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_14-09-39.png)
-![Changement de l'IP]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_16-23-02.png)
+![Changement du mot de passe]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_14-09-39_thumb.png)
+![Changement de l'IP]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_16-23-02_thumb.png)
 
 - On configure les VLANs et les PVID de la façon suivante
 
-![Configuration des VLANs]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_15-31-50.png)
-![Configuration des PVID]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_15-30-43.png)
+![Configuration des VLANs]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_15-31-50_thumb.png)
+![Configuration des PVID]({{site.baseurl}}/img/20150320/Easy_Smart_Configuration_Utility_2015-02-27_15-30-43_thumb.png)
 
 
 ## Quelques détails
