@@ -32,9 +32,8 @@ PVID      { 2 } { 2 } { 3 } { 3 } { 3 } { 3 } { 3 } { 4 }
 
 - On configure les VLANs et les PVID de la façon suivante
 
-
-![Configuration des VLANs](/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_15-31-50.png?w=512)
-![Configuration des PVID](/content/images/2016/10/Easy_Smart_Configuration_Utility_2015-02-27_15-30-43.png?w=512)
+![Configuration des VLANs]({{site.baseurl}}/img/Easy_Smart_Configuration_Utility_2015-02-27_15-31-50.png)
+![Configuration des PVID]({{site.baseurl}}/img/Easy_Smart_Configuration_Utility_2015-02-27_15-30-43.png)
 
 ####Quelques détails
 - La notion de port tagged ou untagged concerne le trafic sortant du switch.
