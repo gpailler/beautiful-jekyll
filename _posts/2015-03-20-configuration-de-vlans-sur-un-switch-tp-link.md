@@ -2,7 +2,6 @@
 layout: post
 published: false
 title: Configuration de VLANs sur un switch Tp-Link
-date: '2015-03-20'
 ---
 À Bali, j’utilise en fournisseur d’accès Internet principal le provider Neuviz. Celui-ci fourni un routeur et peut faire de l’administration à distance dessus. Malgré ma totale confiance, je ne veux pas que Neuviz ai un accès direct aux machines du LAN. J’utilise donc un Raspberry Pi comme routeur intermédiaire.
 
