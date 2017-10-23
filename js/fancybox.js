@@ -11,9 +11,9 @@ $(document).ready(function() {
       {
         var caption = $this.attr('alt');
         var extIdx = imgLink.lastIndexOf('.');
-        imgLink = imgLink.substr(0, idx);
+        imgLinkWithoutExt = imgLink.substr(0, idx);
         imgExt = imgLink.substr(extIdx);
-        var html = '<a href=\"' + imgLink + imgExt + '\" class=\"fancy-box\" data-fancybox=\"images\" data-caption=\"' + caption + '\"></a>';
+        var html = '<a href=\"' + imgLinkWithoutExt + imgExt + '\" class=\"fancy-box\" data-fancybox=\"images\" data-caption=\"' + caption + '\"></a>';
         $this.wrap(html);
       }
     });
