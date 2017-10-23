@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Remplacement ventilateur sur APC SUA1000XL
 bigimg: /img/20151228/IMG_4788_DxO-1024x319.jpg
+tags: [remote work]
 ---
 A Bali, l'alimentation électrique peut être "aléatoire". Les coupures de courant de plusieurs heures ne sont pas si rares... Autant cela reste romantique de s'éclairer à la bougie en soirée et supportable de vivre sans climatisation, autant une coupure de courant en plein meeting [Zoom](https://zoom.us) lors d'une review avec les collègues a une image [désastreuse](https://i.giphy.com/YHZiT6FLA5cGI.gif#fancy).
 

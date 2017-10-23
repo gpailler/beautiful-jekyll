@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Serving resized images for a Ghost blog
+tags: [web]
 ---
 
 [Ghost blog](https://ghost.org/) is a nice blog engine, lightweight and fast focused on content. When you don't need the power of Wordpress, it's a good alternative.
