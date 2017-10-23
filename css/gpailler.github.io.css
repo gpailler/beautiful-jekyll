@@ -1,0 +1,9 @@
+.blog-post img[src$="#alignright"] {
+  margin-left: 10px;
+  float: right;
+}
+
+.blog-post img[src$="#alignleft"] {
+  margin-right: 10px;
+  float: left;
+}
