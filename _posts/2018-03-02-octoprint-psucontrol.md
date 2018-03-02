@@ -35,6 +35,8 @@ to protect the board. It's a bit tight but everything fits properly on it.
 
 <iframe src="https://myhub.autodesk360.com/ue2aedb11/shares/public/SHabee1QT1a327cf2b7abdb08b9862ceddaf?mode=embed" width="700" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+STL files: [Bottom]({{site.baseurl}}/img/20180302/relay_bottom.stl)) / [Top]({{site.baseurl}}/img/20180302/relay_top.stl))
+
 ![Module fits into enclosure]({{site.baseurl}}/img/20180302/20180301_084735805_iOS_DxO_thumb.jpg)
 
 
