@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Custom board and enclosure for OctoPrint PSUControl plugin
+title: Custom board and enclosure for OctoPrint PSU Control plugin
 tags: [3dprinter, octoprint]
 ---
 
@@ -9,7 +9,7 @@ I'm the proud owner of a FDM 3D printer Anycubic i3 Mega. Even before receiving 
 I was playing with the [OctoPi](https://octoprint.org/download/) distribution on a
 Raspberry Pi and I started to investigate the existing plugins.
 
-[PSUControl](https://plugins.octoprint.org/plugins/psucontrol/) is an awesome plugin using rPI GPIO
+[PSU Control](https://plugins.octoprint.org/plugins/psucontrol/) is an awesome plugin using rPI GPIO
 to control a relay and manage printer power supply.
 
 I'll explain below how to build the hardware required to control any printer power supply.
@@ -46,9 +46,9 @@ appropriate connections.
 
 ![Sealed!]({{site.baseurl}}/img/20180302/20180301_091907124_iOS_DxO_thumb.jpg)
 
-### PSUControl
+### PSU Control
 
 With this setup, the relay is closed if there is no power supply
 on Raspberry side so you can print even with the rPI off.
 
-![PSUControl configuration]({{site.baseurl}}/img/20180302/chrome_2018-03-02_14-01-08_thumb.jpg)
+![PSU Control configuration]({{site.baseurl}}/img/20180302/chrome_2018-03-02_14-01-08_thumb.jpg)
