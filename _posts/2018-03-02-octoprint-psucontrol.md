@@ -17,6 +17,7 @@ I already own a relay module and the project is only to build the required elect
 enclosure to protect the board.
 
 Here is how the result looks like
+
 ![Cable and enclosure]({{site.baseurl}}/img/20180302/20180302_124742106_iOS_DxO_thumb.jpg)
 ![Module plugged in]({{site.baseurl}}/img/20180302/20180302_123628507_iOS_DxO_thumb.jpg)
 
@@ -48,14 +49,16 @@ We need the following parts:
 * Resistor (between 1KΩ and 20KΩ should be ok)
 
 ![Breadboard]({{site.baseurl}}/img/20180302/psucontrol_bb_thumb.jpg)
+
 The value of the resistor is not really important and is dependant of the transistor you use (the hFE value).
 The standard formula to find the correct value is as follow.
-![Schematic]({{site.baseurl}}/img/20180302/psucontrol_schematic_thumb.png)
-Ic = 0.005A (it's the current required to trigger the relay)
-Ib = Ic / hFE = 0.005 / ~200 = 0.000025 (it's the minimal current required to saturate the transistor, hFE ~200 for 2N2222)
-To be confortable, we can decide Ib = 0.0001A
 
-Finaly R = (Vin - Vbe) / Ib = (3.3 - 0.7) / 0.0001 = 26000Ω = 26KΩ (Vbe is the voltage drop from the transitor)
+![Schematic]({{site.baseurl}}/img/20180302/psucontrol_schematic_thumb.png)
+
+* Ic = 0.005A (it's the current required to trigger the relay)
+* Ib = Ic / hFE = 0.005 / ~200 = 0.000025 (it's the minimal current required to saturate the transistor, hFE ~200 for 2N2222)
+* (To be confortable, we can decide Ib = 0.0001A)
+* Finaly R = (Vin - Vbe) / Ib = (3.3 - 0.7) / 0.0001 = 26000Ω = 26KΩ (Vbe is the voltage drop from the transitor)
 
 I built this design on the smallest possible PCB and soldered it directly on the relay module (the most dirty way).
 
