@@ -51,7 +51,7 @@ We need the following parts:
 ![Breadboard]({{site.baseurl}}/img/20180302/psucontrol_bb_thumb.jpg)
 
 The value of the resistor is not really important and is dependant of the transistor you use (the hFE value).
-The standard formula to find the correct value is as follow.
+The standard formula to find the correct value is as follow ([full details here](https://www.electronics-tutorials.ws/transistor/tran_4.html)).
 
 ![Schematic]({{site.baseurl}}/img/20180302/psucontrol_schematic_thumb.png)
 
