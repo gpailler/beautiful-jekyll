@@ -175,6 +175,7 @@ prose:
     - /css
     - /img
     - /js
+    - /resume
   metadata:
     _posts:
       - name: "layout"
