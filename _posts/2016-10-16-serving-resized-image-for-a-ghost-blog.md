@@ -25,7 +25,7 @@ The goal of the script is to resize images on the fly through a PHP script. We c
 
 #### Nginx Configuration
 Add a location block to intercept images queries
-```
+```nginx
 location ~ /content/images/(.+)\.(png|jpg|jpeg|gif)$ {
   # If no argument is provided, Nginx will serve original image
   if ($args = '') {
